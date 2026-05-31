@@ -1,0 +1,27 @@
+{
+    "annotations": [
+        {
+            "filename": "test_images\\00007.jpg",
+			"conf":1,
+			"box":{
+				"xmin": 1256.4,
+                "ymin": 999.5,
+                "xmax": 1267.3,
+                "ymax": 1013
+			},
+			"label":"green"
+        },
+        {
+            "filename": "test_images\\00007.jpg",
+			"conf":1,
+            "box": {
+
+				"xmin": 1292.2,
+				"ymin": 981.7,
+				"xmax": 1316.6,
+				"ymax": 1002   
+                },
+			"label":"green"
+        }
+	]
+}
