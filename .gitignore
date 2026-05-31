@@ -36,3 +36,9 @@ npm-debug.log*
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Generated ZIP archives (too large for git)
+*.zip
+
+# Claude internal
+.claude/
